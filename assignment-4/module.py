@@ -1,4 +1,16 @@
-# 1. Write a program to evaluate the following expressions (see attachment)
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+    
+
+
+def fibonaccii(n):
+    if n<=1:
+        return n
+    else:
+        return fibonaccii(n-1)+fibonaccii(n-2)
 
 def fib(n):
     p=1
@@ -32,17 +44,3 @@ def odd_eval(s,x,n,ans,op):
             op=1
     return ans
         
-        
-
-
-
-print('To eval this exprrssion :')
-print('x-x^3/3! + x^5/5! - x^7/7! + .... x^n/n!')
-print('x-x^2/2! + x^3/3! - x^4/4! + .... x^n/n!')
-num=int(input("Enter the value n : "))
-x=int(input("Enter the value of x :"))
-
-
-print(normal_eval(1,x,num,0,1))
-print(odd_eval(1,x,num,0,1))
-
