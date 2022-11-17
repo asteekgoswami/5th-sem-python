@@ -1,0 +1,22 @@
+
+******************************
+Customer Name : Asteek
+Account NUmber :2022579
+Account Type : Saving
+Balance : 987895
+Contact Number : 9015099260
+******************************
+******************************
+Customer Name : Ram
+Account NUmber :214214
+Account Type : Saving
+Balance : 998877
+Contact Number : 2142142140
+******************************
+******************************
+Customer Name : Hari
+Account NUmber :412412
+Account Type : Saving
+Balance : 4124120
+Contact Number : 9418797209
+******************************

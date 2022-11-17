@@ -1,0 +1,17 @@
+******************************
+Patient name : Abhay
+Patient id : 101abhay
+Age : 29
+Gender :Male
+Disease : Chickenpox
+Status : cured
+Contact number : 9874563210
+************************************************************
+Patient name : Anmol
+Patient id : 102anmol
+Age : 22
+Gender :Male
+Disease : Viral Hepatitis
+Status : Cured
+Contact number : 7896541230
+******************************

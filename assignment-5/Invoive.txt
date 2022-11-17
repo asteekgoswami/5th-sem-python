@@ -1,0 +1,13 @@
+******************************
+Item no : 101
+Item name : Coke
+Price : 50
+Quantity : 5
+Total bill : 250
+************************************************************
+Item no : 220
+Item name : Lays
+Price : 20
+Quantity : 50
+Total bill : 1000
+******************************
